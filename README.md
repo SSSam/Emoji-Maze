@@ -2,7 +2,7 @@
 ![Logo](/EmojiMaze/src/main/resources/textures/logo.png)<br />
 
 For a video tutorial and demo, please visit the link:
-    [Video Tutorial & Demo.](https://drive.google.com/file/d/1WP3bzSBnhtWBR8hTy9lrIztZGBW2tBDs/view?usp=sharing)
+    [Video Tutorial & Demo.](https://youtu.be/-htAxB8xtF0)
 
 “Emoji Maze” is an emoji-themed 2D maze arcade game. <br />
 The maze’s map is based on a dungeon’s layout.<br />
