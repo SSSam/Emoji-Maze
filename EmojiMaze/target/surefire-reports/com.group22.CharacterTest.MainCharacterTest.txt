@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.group22.CharacterTest.MainCharacterTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
